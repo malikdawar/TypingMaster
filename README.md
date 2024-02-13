@@ -1,4 +1,4 @@
-# Word Per Minute (WPM) Calculator
+# Typing Master (Word Per Minute (WPM) Calculator)
 
 The Word Per Minute (WPM) Calculator is an Android demo application based on Kotlin Compose that measures a user's typing speed in words per minute.
 
